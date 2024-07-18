@@ -1,2 +1,2 @@
 # vue2-monstergame
-Following tutorial by Max for Vue2JS
+Following tutorial by Udemy  Max for Vue2JS
